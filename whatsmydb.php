@@ -287,6 +287,6 @@
 
       ?>
     </content>
-    <credits>Project by Anthony Rossbach on <a href='https://twitter.com/anthonyrossbach'>Twitter</a>, <a href='https://nodehost.cloud/community/view_profile?user=anthony'>NodeHost</a>, and <a href='https://github.com/anthonyrossbach'>Github</a>.</credits><warning>Your use of this script is at your sole risk. All code is provided "as -is", without any warranty, whether express or implied, of its accuracy, completeness. Further, I shall not be liable for any damages you may sustain by using this script, whether direct, indirect, special, incidental or consequential.</warning>
+    <credits>Project by Anthony Lee on <a href='https://twitter.com/justanthonylee'>Twitter</a>, and <a href='https://github.com/anthonyrossbach'>Github</a>.</credits><warning>Your use of this script is at your sole risk. All code is provided "as -is", without any warranty, whether express or implied, of its accuracy, completeness. Further, I shall not be liable for any damages you may sustain by using this script, whether direct, indirect, special, incidental or consequential.</warning>
   </body>
 </html>
