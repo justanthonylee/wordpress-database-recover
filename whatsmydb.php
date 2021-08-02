@@ -260,8 +260,7 @@
     <content>
       <p>Hey so you need to see your Wordpress database info? Sure, here it is just this once. As a note this page is automatically deleted after visiting. You will need to install this script if you want to see this information again.</p>
       <?php
-      //This is designed to work from the /wp-content/uploads folder.
-      include("../../wp-config.php");
+      include("wp-config.php");
 
       echo "<div class='block'>";
       echo "<strong>Database Name</strong>: ";
